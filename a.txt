@@ -3,6 +3,6 @@ curl -O -L https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4
 lnc
 MP6YSGHiuUK4PbUqQ6ZjPKYswG2DiMG8JS
 
-
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.3.7/SRBMiner-Multi-2-3-7-Linux.tar.xz && tar -xvf SRBMiner-Multi-2-3-7-Linux.tar.xz && cd SRBMiner-Multi-2-3-7 && ./SRBMiner-MULTI --disable-gpu --algorithm yespowerltncg --pool stratum+tcp://lightningcash.cf:6666 --wallet MP6YSGHiuUK4PbUqQ6ZjPKYswG2DiMG8JS.I --password x
 
 MB1GkvQCHuHWcDnxevpavAY5qs2DFEQcT5
